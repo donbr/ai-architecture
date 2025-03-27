@@ -1,0 +1,12 @@
+{
+    "title": "AI Architecture",
+    "description": "Articles about AI Architecture",
+    "navbarTitle": {
+        "text": "AI Architecture articles"
+    },
+    "author": {
+        "name": "Don",
+        "url": "https://datahub.io/"
+    },
+    "showSidebar": true
+}
